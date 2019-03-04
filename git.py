@@ -2,5 +2,9 @@ a=9
 b=4
 c=a+b
 d=a*b
+e=a-b
+f=a//b
+print(f)
+print(e)
 print(c)
 print(d)
